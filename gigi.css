@@ -1,0 +1,29 @@
+*{
+    background: darkseagreen;
+}
+    
+header{
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+    margin: 5%;
+
+}
+.images{
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+    width: 90%;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    font-size: 100px;
+    color: firebrick;
+    background-color: gold;
+
+}
