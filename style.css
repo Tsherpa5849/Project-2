@@ -3,6 +3,20 @@
     flex-direction: column;
     align-items: center;
 }
+.allitems{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: space-evenly;
+}
+body{
+    background-color: blue;
+    justify-content: space-between;
+}
+p{
+    font-size: 10px;
+}
 img{
     width: 300px;
 }
